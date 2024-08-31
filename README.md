@@ -1,6 +1,6 @@
 # E-Library Management System Database Schema
 
-This is a restaurant management system developed as part of the CT042-3-1-IDB (Introduction to Databases) group assignment for the Asia Pacific University (APU) in 2024.
+This is an E-library management system database schema developed as part of the CT042-3-1-IDB (Introduction to Databases) group assignment for the Asia Pacific University (APU) in 2024.
 
 ## Project description
 
